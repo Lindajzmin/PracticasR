@@ -1,0 +1,2 @@
+# PracticasR
+Curso de r
